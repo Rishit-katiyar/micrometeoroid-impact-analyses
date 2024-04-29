@@ -2,11 +2,11 @@
 
 Welcome to the Micro Meteoroid Impact Analysis Simulation repository! This project simulates the impact of micrometeoroids on a shield in an aerospace context, providing insights into shield damage and deformation over time.
 
-![Figure_190101](https://github.com/Rishit-katiyar/micrometeoroid-impact-analyses/assets/167756997/07a5fc82-d910-40e7-948c-c9044938cf89)
-
 ## Introduction
 
 The Micro Meteoroid Impact Analysis Simulation allows you to explore the effects of micrometeoroids on spacecraft shields. Micrometeoroids are tiny, high-speed particles that pose a risk to spacecraft integrity, necessitating protective shielding for critical components.
+
+![Figure_190101](https://github.com/Rishit-katiyar/micrometeoroid-impact-analyses/assets/167756997/07a5fc82-d910-40e7-948c-c9044938cf89)
 
 ### What are Micrometeoroids?
 
